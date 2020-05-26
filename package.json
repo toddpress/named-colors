@@ -1,0 +1,12 @@
+{
+  "name": "named-colors",
+  "version": "1.0.0",
+  "author": "toddpress",
+  "description": "A map of all named CSS colors to their respective hex values",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["css", "named-colors", "colors"],
+  "license": "ISC"
+}
